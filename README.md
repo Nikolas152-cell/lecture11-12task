@@ -1,2 +1,2 @@
 # lecture11-12task
-так получилось, что у меня 2 сервера обрабатывают реквест (80,81)
+https://github.com/Nikolas152-cell/lecture-7-8tasks - мой БЕ
